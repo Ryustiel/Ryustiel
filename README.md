@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryustiel
-- 👀 I’m interested in getting a neural network working
+- 👀 I’m interested in machine learning and in understanding the issues that the existing training algorithms are trying to solve.
 - 🌱 I’m currently learning maths and computer science
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me : you wouldn't want. - for now
