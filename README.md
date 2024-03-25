@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ryustiel
-- 👀 I’m interested in machine learning and I want to achieve designing training algorithms fit to specific problems.
-- 🌱 I’m currently learning mathematics and computer science as a college student.
-- 💞️ I’m not ready to collaborate on any non educational project for now, since i'm still learning the basics.
-- 📫 How to reach me : you probably wouldn't, but raph.ny@outlook.fr is gonna be working so you can send funny memes
+- 👀 I’m interested in machine learning and I aim at understanding the AI R&D logic.
+- 🌱 I’m currently learning computer science as a college student.
+- 💞️ I would be interested in collaborating on projects since I have some spare time.
+- 📫 You can reach me on raph.ny@outlook.fr, should be working so you can send funny memes.
 
 <!---
 Ryustiel/Ryustiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
