@@ -2,8 +2,8 @@
 
 I’m an engineering student specializing in data science and machine learning engineering.
 I strive to build useful services for day‑to‑day needs, integrate state‑of‑the‑art AI models into
-complex workflows, and I’ve recently started building my own models. I also have a lot of fun
-transforming and funneling data.
+complex workflows, and I’ve recently started building my own models. I've also had a surprising lot of fun
+transforming and funneling data for machine learning "challenges".
 
 As I’m nearing the end of my studies, I’m looking for an internship by 2026!
 Here’s my LinkedIn (resume available there):  
