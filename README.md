@@ -14,19 +14,19 @@ Below is a selection of my featured projects; feel free to browse the rest of my
 
 ## Featured Projects
 
-- Vision API — LLM-Friendly Device Stream & Detection Backend
-  https://github.com/Ryustiel/DetectiPublic
-  An API designed to be used by LLMs and automation clients: it exposes live visual streams, makes it easy to register or subscribe new devices like phones to live streams, and turns those feeds into structured detection events. Once a stream is available, Grounding DINO can be queried with free-text tags to create detections programmatically.
+- Vision API — LLM-Friendly Device Stream & Detection Backend  
+  https://github.com/Ryustiel/DetectiPublic  
+  An API designed to be used by LLMs and automation clients: it exposes live visual streams, makes it easy to register or subscribe new devices like phones to live streams, and turns those feeds into structured detection events. Once a stream is available, Grounding DINO can be queried with free-text tags to create detections programmatically.  
   Tech: Python, device/stream management, Grounding DINO, event generation.
 
-- Realtime Discord API — Gemini Flash Live-powered Multi-User Conversational Platform
-  https://github.com/Ryustiel/MeepiPublic
-  Discord-integrated realtime conversational platform built around Gemini Flash Live, so multiple users can participate in the same live conversation. It keeps shared context across participants and channels, supports async MCP-style tool calls, and includes human-in-the-loop (HITL) approval flows for controlled actions.
+- Realtime Discord API — Gemini Flash Live-powered Multi-User Conversational Platform  
+  https://github.com/Ryustiel/MeepiPublic  
+  Discord-integrated realtime conversational platform built around Gemini Flash Live, so multiple users can participate in the same live conversation. It keeps shared context across participants and channels, supports async MCP-style tool calls, and includes human-in-the-loop (HITL) approval flows for controlled actions.  
   Tech: Gemini Flash Live, LangGraph, LangChain, Discord.py, Streamlit, asyncio, Docker Compose, OpenAI, google-generativeai SDK.
 
-- Agents — Modular Agent Orchestration Service
-  https://github.com/Ryustiel/Agenti
-  An agent platform that separates the runtime into reusable modules for planning, tool routing/execution, shared state, memory, approvals, and external integrations, so different parts of the system can be extended independently and combined into more complex workflows.
+- Modular Agent Orchestration Service  
+  https://github.com/Ryustiel/Agenti  
+  An agent platform that separates the runtime into reusable modules for planning, tool routing/execution, shared state, memory, approvals, and external integrations, so different parts of the system can be extended independently and combined into more complex workflows.  
   Tech: Python, modular LLM orchestration, async workflows, tool integration.
 
 - Meep — Multi‑Interface Conversational Platform  
