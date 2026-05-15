@@ -1,19 +1,33 @@
-# Welcome to my Git Repo :)
+# Welcome to my GitHub :)
 
-I’m an engineering student specializing in data science and machine learning engineering.
-I strive to build useful services for day‑to‑day needs, integrate state‑of‑the‑art AI models into
-complex workflows, and I’ve recently started building my own models. I've also had a surprising lot of fun
-transforming and funneling data for machine learning "challenges".
+I’m Raphael, an engineering student specializing in data science and machine learning engineering, expected to graduate in 2026. 
 
-As I’m nearing the end of my studies, I’m looking for an internship by 2026!
+I enjoy building useful software, designing data pipelines, and integrating modern AI models into real workflows; when a project calls for it, I also like diving into model training and evaluation. 
+I’m especially drawn to interdisciplinary projects and research-oriented problems, where I can study a topic in depth, learn from existing work, and adapt ideas to new constraints.
+
 Here’s my LinkedIn (resume available there):  
 👉 https://www.linkedin.com/in/raphael-nguyen-162974225/
 
-Here is an overview of some of my projects. You can of course browse the rest of my public repositories from here https://github.com/Ryustiel?tab=repositories
+Below is a selection of my featured projects; feel free to browse the rest of my public repositories here:
 
 ---
 
 ## Featured Projects
+
+- Vision API — LLM-Friendly Device Stream & Detection Backend
+  https://github.com/Ryustiel/DetectiPublic
+  An API designed to be used by LLMs and automation clients: it exposes live visual streams, makes it easy to register or subscribe new devices like phones to live streams, and turns those feeds into structured detection events. Once a stream is available, Grounding DINO can be queried with free-text tags to create detections programmatically.
+  Tech: Python, device/stream management, Grounding DINO, event generation.
+
+- Realtime Discord API — Gemini Flash Live-powered Multi-User Conversational Platform
+  https://github.com/Ryustiel/MeepiPublic
+  Discord-integrated realtime conversational platform built around Gemini Flash Live, so multiple users can participate in the same live conversation. It keeps shared context across participants and channels, supports async MCP-style tool calls, and includes human-in-the-loop (HITL) approval flows for controlled actions.
+  Tech: Gemini Flash Live, LangGraph, LangChain, Discord.py, Streamlit, asyncio, Docker Compose, OpenAI, google-generativeai SDK.
+
+- Agents — Modular Agent Orchestration Service
+  https://github.com/Ryustiel/Agenti
+  An agent platform that separates the runtime into reusable modules for planning, tool routing/execution, shared state, memory, approvals, and external integrations, so different parts of the system can be extended independently and combined into more complex workflows.
+  Tech: Python, modular LLM orchestration, async workflows, tool integration.
 
 - Meep — Multi‑Interface Conversational Platform  
   https://github.com/Ryustiel/MeepPublic  
