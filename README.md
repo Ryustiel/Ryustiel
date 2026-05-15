@@ -24,13 +24,13 @@ Below is a selection of my featured projects; feel free to browse the rest of my
   Discord-integrated realtime conversational platform built around Gemini Flash Live, so multiple users can participate in the same live conversation. It keeps shared context across participants and channels, supports async MCP-style tool calls, and includes human-in-the-loop (HITL) approval flows for controlled actions.  
   Tech: Gemini Flash Live, LangGraph, LangChain, Discord.py, Streamlit, asyncio, Docker Compose, OpenAI, google-generativeai SDK.
 
-- Modular Agent Orchestration Service  
-  https://github.com/Ryustiel/Agenti  
-  An agent platform that separates the runtime into reusable modules for planning, tool routing/execution, shared state, memory, approvals, and external integrations, so different parts of the system can be extended independently and combined into more complex workflows.  
-  Tech: Python, modular LLM orchestration, async workflows, tool integration.
+- Agents — Stateful Modular Agent Runtime  
+  https://github.com/Ryustiel/Agenti   
+  A modular agent runtime for complex, stateful conversations: dynamic and reflective agent runs, long-running tools, callbacks, approvals, context ledgers, prompt-prefix caching, durable memory, structured stubs, external views, live input streams, and OpenAI-compatible access. It separates agent templates from conversation-owned runtime state so each subsystem can evolve independently and be composed into richer agent workflows.  
+  Tech: Python, FastAPI, PostgreSQL, pgvector, SQLAlchemy, Pydantic, SSE, WebSocket, Docker Compose, OpenAI-compatible API, async workflows, modular LLM orchestration, tool calling, callback-driven tasks, context/prompt caching
 
 - Meep — Multi‑Interface Conversational Platform  
-  https://github.com/Ryustiel/MeepPublic  
+  https://github.com/Ryustiel/MeepPublic    
   Modular agent built on LangGraph with unified state across multiple chats, async MCP‑style tools,
   and HITL approvals; designed for scalable, multi‑channel conversations.  
   Tech: LangGraph, LangChain, Discord.py, Streamlit, asyncio, Docker Compose, OpenAI, google-generativeai SDK.
