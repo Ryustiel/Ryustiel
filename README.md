@@ -8,7 +8,7 @@ I’m especially drawn to interdisciplinary projects and research-oriented probl
 Here’s my LinkedIn (resume available there):  
 👉 https://www.linkedin.com/in/raphael-nguyen-162974225/
 
-Below is a selection of my featured projects; feel free to browse the rest of my public repositories here:
+Below is a selection of my featured projects; feel free to browse the rest of my public repositories.
 
 ---
 
